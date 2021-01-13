@@ -4,6 +4,6 @@
     box-sizing: border-box;
 }
 
-htm, body {
-    
+htm {
+    background-color: #fff;
 }
