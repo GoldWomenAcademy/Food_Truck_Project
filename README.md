@@ -1,6 +1,6 @@
 Version Française :<br>
 
-Food Home est une entreprise de livraison de menus haut de gamme. Elle apporte des repas sains et abordables, aux habitants de quatre villes actuellement.<br>
+Home Food est une entreprise de livraison de menus haut de gamme. Elle apporte des repas sains et abordables, aux habitants de quatre villes actuellement.<br>
 
 Food Truck a besoin d'un nouveau site Web moderne et propre pour une entreprise professionnelle.<br>
 
